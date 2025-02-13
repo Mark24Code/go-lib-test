@@ -1,6 +1,6 @@
 package utils
 
-func Add(int x,int y) int {
+func Add(x int, y int) int {
 	return  x + y
 }
 
